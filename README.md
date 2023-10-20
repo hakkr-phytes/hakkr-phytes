@@ -5,7 +5,7 @@ my personal interests/workflow revolve purely around aesthetics and conveniency,
 - - potential side-interests at the ripe age of 16 for me are copywriting and remote sales rep (???) cus im too lazy for a job haha
 
 = outside of the code stuff, i go gym and cry.
-= and i watch a bit of anime and play games rarely.
+and i watch a bit of anime and play games rarely.
 
  
     
