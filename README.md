@@ -1,10 +1,11 @@
-- 👋 Hi, I’m phytes
-- 👀 I’m interested in creating unique discord chatbots as well as designing websites using html/css
-- 🌱 I’m currently learning to code in HTML and CSS
-- 💞️ I’m looking to collaborate on nothing in particular, hmu if you want to work on anything though.
-- 📫 How to reach me phytes#9547 on discord
+i'm athreya, also known as phytes or cockgod398. (not real)
+my personal interests/workflow revolve purely around aesthetics and conveniency, tilted to a very slight degree of "productivity" (whihc is why im settugn up lixnu) (so uniqie and qiruky!!)
+- as of 10/18/23, my interests lie primarily in learning linux (currently setting-up pop! and nobara systems, may use arch in the future) 
+- i do also want to learn css/html to create and design websites for blogs and clothing brands. (be tuned for my% release!!)
+- - potential side-interests at the age of 16 for me are copywriting and remote sales rep (???) cus im too lazy for a job haha
 
-<!---
-hakkr-phytes/hakkr-phytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+= outside of the code stuff, i go gym and cry.
+= and i watch a bit of anime and play games rarely.
+
+ 
+    
